@@ -1,0 +1,24 @@
+*{
+    color:rgb(190, 13, 72);
+}
+ h1{
+    color: rgb(40, 40, 182);
+ }
+ #id101{
+    color: chocolate;
+ }
+ #id102{
+    color: rgb(167, 28, 167);
+ }
+ #id103{
+    color: rgb(76, 42, 150);
+ }
+ .doctor{
+    color: darkgreen;
+ }
+ .Hospital{
+    color: goldenrod;
+ }
+ body  {
+     background-color:whitesmoke;
+ }
