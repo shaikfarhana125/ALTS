@@ -1,0 +1,44 @@
+/*div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+body{
+    background-image: url("train.jpg");
+    background-size: cover;
+}
+#box1{
+    background-image: url("makkah_image.jpg");
+    background-size: cover;
+
+}
+#box2{
+    background-image: url("mehendi.jpg");
+    background-size: auto;
+}
+#box3{
+
+    background-image: url("Doraemon-PNG.png");
+    background-size: contain;
+}*/
+
+div{
+    height: 100px;
+    width: 100px;
+    color: azure;
+    background-image: url("train.jpg");
+    background-size: cover;
+    position: fixed;
+    top: 70px;
+    right: 0px;
+
+}
+body{
+    background-color: chartreuse;
+    background-image: url("mehendi.jpg");
+    background-size: cover;
+}
+p{
+    font-family: cursive;
+}
