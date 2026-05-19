@@ -1,0 +1,35 @@
+/*div{
+    width:80px;
+    height:200px;
+    padding:20px;
+    margin:30px;
+    background-color: blue;
+    display: inline-block;
+    border: 2px wavy brown;
+    color: antiquewhite;
+
+}*/
+h1{
+    text-align: center;
+}
+div{
+    height: 200px;
+    width:150px;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+    background-color: rgba(224,19,167,0.10);
+}
+
+#box1{
+    background-color:rgba(224, 19, 167, 0.20);
+    
+}
+#box2{
+    background-color:rgba(224, 19, 167, 0.30);
+    
+}
+#box3{
+    background-color:rgba(224, 19, 167, 0.45);
+    
+}

@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 600px;
+    border: 2px solid black; 
+    display: inline-block;
+
+}
+#container{
+    height: 200px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+
+}
